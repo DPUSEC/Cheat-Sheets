@@ -1,0 +1,3 @@
+https://github.com/security-cheatsheet/metasploit-cheat-sheet
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Metasploit%20-%20Cheatsheet.md
